@@ -50,22 +50,19 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver 
 ### 📊 Atividades e Estatísticas
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/LnDev25">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LnDev25&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&hide_title=false" alt="Estatísticas do Lucas" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/LnDev25">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LnDev25&layout=compact&theme=ocean_dark&hide_border=false" alt="Linguagens mais usadas" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/LnDev25">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LnDev25&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do Lucas" height="180em" />
+  </a>
+  <a href="https://github.com/LnDev25">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LnDev25&layout=compact&theme=ocean_dark&hide_border=false" alt="Linguagens mais usadas" height="180em" />
+  </a>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LnDev25&theme=ocean_dark" alt="Resumo do Perfil" />
+</div>
 ---
 
 ### 📫 Vamos nos conectar?
