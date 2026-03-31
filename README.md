@@ -54,12 +54,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver 
     <tr>
       <td>
         <a href="https://github.com/LnDev25">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LnDev25&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" alt="Estatísticas" />
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LnDev25&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&hide_title=false" alt="Estatísticas do Lucas" />
         </a>
       </td>
       <td>
         <a href="https://github.com/LnDev25">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LnDev25&layout=compact&theme=ocean_dark" alt="Linguagens" />
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LnDev25&layout=compact&theme=ocean_dark&hide_border=false" alt="Linguagens mais usadas" />
         </a>
       </td>
     </tr>
