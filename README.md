@@ -46,7 +46,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver 
 * 🌐 [**Desenvolvimento de Sistemas Web (Básico)** - RECODE](https://www.linkedin.com/in/lucas-nathan-5408941b5/overlay/Certifications/2113486998/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
 * 🐍 [**Python 3 (Mundo 1)** - Curso em Vídeo](https://www.linkedin.com/in/lucas-nathan-5408941b5/overlay/Certifications/895101508/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
 * 🤖 **Desenvolvimento Python com IA (Gemini)** - Google/DIO
-* ⚙️ **Lógica de Programação** - Trybe / Santander DIO
+* ⚙️ [**Lógica de Programação** - Trybe / Santander DIO] (https://www.linkedin.com/feed/update/urn:li:activity:7374609817190985729/)
 
 ---
 
@@ -84,4 +84,33 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn"/>
   </a>
   <a href="mailto:suporteforlucas@hotmail.com" target="_blank">
-    <img src="
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email"/>
+  </a>
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LnDev25/LnDev25/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LnDev25/LnDev25/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/LnDev25/LnDev25/output/github-contribution-grid-snake.svg" width="60%">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00add8&height=200&section=header&text=Lucas%20Nathan&fontSize=70&animation=fadeIn" />
+</div>
+
+# Hi, I'm Lucas Nathan! 👋
+
+### 🚀 Aspiring Full-Stack Developer | IT Specialist | CS Student
+
+I am a **Software Analysis and Development** student. Currently transitioning from IT Infrastructure to **Software Engineering**, focusing on **Python** and **Java** while building a **Full-Stack** foundation.
+
+---
+
+### 📚 Certificates
+*(LinkedIn Verified)*
+
+* ☕ [**Java Development** - FIAP](https://www.linkedin.com/in/lucas-nathan-5408941b5/overlay/Certifications/2113603252/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
+* 🌐 [**Web Systems Development** - RECODE](https://www.linkedin.com/in/lucas-nathan-5408941b5/overlay/Certifications/2113486998/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
+* 🐍 [**Python 3** - Curso em Vídeo](https://www.linkedin.com/in/lucas-nathan-5408941b5/overlay/Certifications/895101508/treasury?profileId=ACoAADIkZwAB_nOa-jpiE3I7QyE8YPf1HoMu_-o)
