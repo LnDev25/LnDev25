@@ -6,7 +6,7 @@
 
 ### 🚀 Aspirante a Desenvolvedor Full-Stack | Estudante de ADS na Estácio
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver problemas através do código. Atualmente, estou transicionando minha carreira de Infraestrutura/TI para o **Desenvolvimento de Software**, com foco inicial em **Python** e **Java**, mas buscando certificações e conhecimento em geral sobre **Programação** para me tornar um desenvolvedor **Full-Stack**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver problemas através do código. Atualmente, estou transicionando minha carreira de Infraestrutura/TI para o **Desenvolvimento de Software**, com foco inicial em **Python** e **Java**, mas buscando conhecimento em geral sobre **Programação** para me tornar um desenvolvedor **Full-Stack**.
 
 ---
 
@@ -35,32 +35,32 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver 
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini IA"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Tkinter-000000?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ---
 
 ### 📚 Cursos & Certificações
+*(Clique nos links para visualizar os certificados)*
 
-* ☕ **Java Intermediário** - FIAP (Curso Introdutório)
-* 🤖 **Desenvolvimento Python com IA (Gemini)** - Google/DIO
-* 🐍 **Python 3: Programação e Lógica** - Curso em Vídeo
-* 🌐 **Desenvolvimento de Sistemas Web** - RECODE
-* ⚙️ **Lógica de Programação** - Trybe / Santander DIO
+* ☕ [**Java Intermediário** - FIAP](https://www.fiap.com.br/)
+* 🤖 [**Desenvolvimento Python com IA (Gemini)** - Google/DIO](https://www.dio.me/)
+* 🐍 [**Python 3: Programação e Lógica** - Curso em Vídeo](https://www.cursoemvideo.com/)
+* 🌐 [**Desenvolvimento de Sistemas Web** - RECODE](https://recode.org.br/)
+* ⚙️ [**Lógica de Programação** - Trybe / Santander DIO](https://www.dio.me/)
 
 ---
 
 ### 📊 Atividades e Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LnDev25&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" alt="Estatísticas do Lucas" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LnDev25&layout=compact&theme=ocean_dark" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LnDev25&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LnDev25&layout=compact&theme=ocean_dark" alt="Linguagens" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LnDev25&theme=ocean_dark" alt="Resumo do Perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LnDev25&theme=ocean_dark" alt="Summary" />
 </div>
 
 ---
@@ -88,33 +88,23 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em resolver 
 
 ### 🚀 Aspiring Full-Stack Developer | IT Specialist | CS Student
 
-I am a **Software Analysis and Development** student focused on solving problems through code. Currently, I am transitioning my career from Infrastructure/IT Support to **Software Development**, starting with **Python** and **Java**, while constantly seeking new certifications and broad knowledge to become a **Full-Stack Developer**.
+I am a **Software Analysis and Development** student. Currently, I am transitioning my career from IT Support to **Software Development**, focusing on **Python** and **Java** while building a **Full-Stack** skill set.
 
 ---
 
 ### 💡 About Me
 
 - 🎓 **Education:** 2nd semester of **Software Analysis and Development** (Estácio University).
-- 🐍 **Current Focus:** Python development integrated with AI and advanced programming logic.
-- ☕ **Learning Path:** Expanding horizons with **Java** (FIAP) and Data Structures.
-- 💼 **IT Background:** 3+ years of experience in technical support and infrastructure, providing a solid foundation in systems and networking.
-- 🌍 **Languages:** Native Portuguese | Improving **English** for global communication (English Backstage).
+- 🐍 **Focus:** Python + AI and advanced logic.
+- ☕ **Learning:** Java (FIAP) and Data Structures.
+- 💼 **Background:** 3+ years in IT Infrastructure and Support.
+- 🌍 **Languages:** Native Portuguese | Improving **English** (English Backstage).
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📚 Featured Courses
 
-**Languages & Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-**Tools & AI**
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini IA"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Tkinter-000000?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
-  <img src="https://img.
+* ☕ [**Intermediate Java** - FIAP](https://www.fiap.com.br/)
+* 🤖 [**Python & AI** - Google/DIO](https://www.dio.me/)
+* 🐍 [**Python 3** - Curso em Vídeo](https://www.cursoemvideo.com/)
+* 🌐 [**Web Systems** - RECODE](https://recode.org.br/)
